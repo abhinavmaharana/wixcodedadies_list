@@ -1,0 +1,1 @@
+web: gunicorn wixcodedaddies_list.wsgi
